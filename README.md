@@ -242,20 +242,5 @@ docker compose up --build
 
 ---
 
-## 📜 Citation & Paper
-
-If you find this research or code useful, please cite our corresponding journal article:
-
-```bibtex
-@article{gavali2026deepfake,
-  title={An Explainable Hybrid Spatiotemporal Framework for Deepfake Detection in Images and Videos},
-  author={Gavali, Ashwini S. and More, Harshal S. and Bangale, Purva A.},
-  journal={Department of Artificial Intelligence and Data Science, CSMSS Chh. Shahu College of Engineering},
-  year={2026}
-}
-```
-
----
-
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
