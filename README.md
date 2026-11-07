@@ -196,8 +196,6 @@ deepfake-detection/
 │   └── plotting.py             # ROC curves, confusion matrices, error galleries
 ├── docs/
 │   └── assets/                 # High-resolution result figures and plots
-├── Article_Journal_DD.docx     # Revised Research Article
-├── review_response.docx        # Point-by-point reviewer response documentation
 ├── docker-compose.yml          # Containerized deployment stack
 └── .gitignore                  # Git tracking rules excluding large checkpoints & videos
 ```
@@ -244,3 +242,4 @@ docker compose up --build
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+

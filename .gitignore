@@ -50,6 +50,12 @@ Dataset/
 FaceForensics++/
 FaceForensics++_C23/
 
+# Unpublished Research Paper & Review Documents
+*.docx
+*.doc
+Article_Journal_DD*
+review_response*
+
 # System / IDE
 .DS_Store
 Thumbs.db
