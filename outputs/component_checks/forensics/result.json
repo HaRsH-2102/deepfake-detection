@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-04-23T09:02:27.323117",
+  "status": "ok",
+  "model_path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\own_train\\runs\\20260422_231937_xception\\checkpoints\\best_model.pt",
+  "device": "cuda",
+  "image_path": "C:\\Users\\Harshal\\OneDrive\\Pictures\\Screenshots\\ladies_fake.png",
+  "flag_count": 1,
+  "flags": [
+    "No EXIF metadata present"
+  ]
+}

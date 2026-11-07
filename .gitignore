@@ -1,0 +1,60 @@
+# Environments and Secret Credentials
+.env
+*.env
+backend/.env
+frontend/.env
+*.env.local
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Node Modules & Frontend Build
+node_modules/
+frontend/node_modules/
+dist/
+build/
+.parcel-cache/
+
+# Python Bytecode and Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Model Checkpoints (Heavy binary files > 100MB)
+*.pt
+*.pth
+*.bin
+*.h5
+*.safetensors
+Models/*.pt
+**/checkpoints/
+
+# Video and Media Files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+video_cache/
+outputs/video_cache/
+
+# Datasets
+Dataset/
+FaceForensics++/
+FaceForensics++_C23/
+
+# System / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+~$*
+*.tmp
+

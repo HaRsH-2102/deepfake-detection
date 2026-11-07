@@ -1,0 +1,132 @@
+{
+  "best_epoch": 7,
+  "training_time_minutes": 170.87,
+  "device": "cuda",
+  "split_summary": {
+    "split_mode": "identity_grouped_video",
+    "identity_split_counts": {
+      "train": 719,
+      "val": 154,
+      "test": 155
+    },
+    "real_video_counts": {
+      "train": 704,
+      "val": 147,
+      "test": 149
+    },
+    "fake_video_counts": {
+      "train": 2704,
+      "val": 215,
+      "test": 183
+    },
+    "fake_method_counts": {
+      "train": {
+        "DeepFakeDetection": 194,
+        "Deepfakes": 502,
+        "Face2Face": 502,
+        "FaceShifter": 502,
+        "FaceSwap": 502,
+        "NeuralTextures": 502
+      },
+      "val": {
+        "DeepFakeDetection": 75,
+        "Deepfakes": 28,
+        "Face2Face": 28,
+        "FaceShifter": 28,
+        "FaceSwap": 28,
+        "NeuralTextures": 28
+      },
+      "test": {
+        "DeepFakeDetection": 33,
+        "Deepfakes": 30,
+        "Face2Face": 30,
+        "FaceShifter": 30,
+        "FaceSwap": 30,
+        "NeuralTextures": 30
+      }
+    },
+    "dropped_cross_split_fake_videos": 2898,
+    "retained_fake_videos": 3102,
+    "avg_frame_count": {
+      "train": 488.9146126760563,
+      "val": 565.4806629834254,
+      "test": 517.2981927710844
+    },
+    "train_sample_count": 3408,
+    "val_sample_count": 362,
+    "test_sample_count": 332
+  },
+  "backbone_checkpoint": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\own_train\\runs\\20260422_231937_xception\\checkpoints\\best_model.pt",
+  "sequence_length": 10,
+  "backbone_feature_dim": 2048,
+  "final_val_metrics": {
+    "accuracy": 0.988950276243094,
+    "precision": 1.0,
+    "recall": 0.9813953488372092,
+    "f1": 0.9906103286384976,
+    "auc": 1.0,
+    "loss": 0.018941978841841137
+  },
+  "final_test_metrics": {
+    "accuracy": 0.9698795180722891,
+    "precision": 0.9832402234636871,
+    "recall": 0.9617486338797814,
+    "f1": 0.9723756906077348,
+    "auc": 0.994700553782961,
+    "loss": 0.0877179417721762
+  },
+  "classification_report_val": {
+    "REAL": {
+      "precision": 0.9735099337748344,
+      "recall": 1.0,
+      "f1-score": 0.9865771812080537,
+      "support": 147.0
+    },
+    "FAKE": {
+      "precision": 1.0,
+      "recall": 0.9813953488372092,
+      "f1-score": 0.9906103286384976,
+      "support": 215.0
+    },
+    "accuracy": 0.988950276243094,
+    "macro avg": {
+      "precision": 0.9867549668874172,
+      "recall": 0.9906976744186047,
+      "f1-score": 0.9885937549232757,
+      "support": 362.0
+    },
+    "weighted avg": {
+      "precision": 0.9892429841571841,
+      "recall": 0.988950276243094,
+      "f1-score": 0.9889725588255825,
+      "support": 362.0
+    }
+  },
+  "classification_report_test": {
+    "REAL": {
+      "precision": 0.954248366013072,
+      "recall": 0.9798657718120806,
+      "f1-score": 0.9668874172185431,
+      "support": 149.0
+    },
+    "FAKE": {
+      "precision": 0.9832402234636871,
+      "recall": 0.9617486338797814,
+      "f1-score": 0.9723756906077348,
+      "support": 183.0
+    },
+    "accuracy": 0.9698795180722891,
+    "macro avg": {
+      "precision": 0.9687442947383795,
+      "recall": 0.9708072028459309,
+      "f1-score": 0.9696315539131389,
+      "support": 332.0
+    },
+    "weighted avg": {
+      "precision": 0.9702288175596461,
+      "recall": 0.9698795180722891,
+      "f1-score": 0.9699125799601758,
+      "support": 332.0
+    }
+  }
+}

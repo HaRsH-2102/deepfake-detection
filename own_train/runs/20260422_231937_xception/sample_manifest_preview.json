@@ -1,0 +1,2708 @@
+{
+  "train": [
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\000.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\014.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\029.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\044.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\059.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\074.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\088.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\103.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\118.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\133.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\148.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\162.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\177.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\192.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\207.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\222.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\236.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\251.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\266.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\281.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\296.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\310.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\325.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\340.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\355.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\370.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\384.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\399.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\414.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\429.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\444.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\001\\459.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/001",
+      "primary_id": "001",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\000.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\022.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\044.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\066.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\089.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\111.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\133.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\156.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\178.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\200.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\223.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\245.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\267.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\290.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\312.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\334.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\357.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\379.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\401.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\424.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\446.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\468.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\491.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\513.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\535.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\558.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\580.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\602.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\625.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\647.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\669.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\002\\692.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/002",
+      "primary_id": "002",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\000.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\009.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\019.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\029.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\039.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\049.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\059.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\069.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\079.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\089.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\099.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\109.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\119.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\129.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\139.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\149.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\158.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\168.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\178.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\188.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\198.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\208.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\218.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\228.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\238.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\248.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\258.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\268.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\278.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\288.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\298.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\004\\308.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/004",
+      "primary_id": "004",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\005\\000.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/005",
+      "primary_id": "005",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\005\\012.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/005",
+      "primary_id": "005",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\005\\024.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/005",
+      "primary_id": "005",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\005\\037.png",
+      "label": 0,
+      "split": "train",
+      "group_id": "real/005",
+      "primary_id": "005",
+      "secondary_id": null,
+      "method": "real"
+    }
+  ],
+  "val": [
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\000.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\012.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\025.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\038.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\050.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\063.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\076.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\089.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\101.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\114.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\127.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\140.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\152.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\165.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\178.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\191.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\203.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\216.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\229.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\242.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\254.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\267.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\280.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\293.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\305.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\318.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\331.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\344.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\356.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\369.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\382.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\000\\395.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/000",
+      "primary_id": "000",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\000.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\009.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\019.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\029.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\038.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\048.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\058.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\068.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\077.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\087.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\097.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\107.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\116.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\126.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\136.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\146.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\155.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\165.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\175.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\185.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\194.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\204.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\214.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\224.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\233.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\243.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\253.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\263.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\272.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\282.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\292.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\003\\302.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/003",
+      "primary_id": "003",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\000.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\016.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\032.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\048.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\065.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\081.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\097.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\113.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\130.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\146.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\162.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\178.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\195.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\211.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\227.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\243.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\260.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\276.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\292.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\308.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\325.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\341.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\357.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\373.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\390.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\406.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\422.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\438.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\455.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\471.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\487.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\007\\504.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/007",
+      "primary_id": "007",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\011\\000.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/011",
+      "primary_id": "011",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\011\\020.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/011",
+      "primary_id": "011",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\011\\040.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/011",
+      "primary_id": "011",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\011\\061.png",
+      "label": 0,
+      "split": "val",
+      "group_id": "real/011",
+      "primary_id": "011",
+      "secondary_id": null,
+      "method": "real"
+    }
+  ],
+  "test": [
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\000.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\009.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\019.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\029.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\039.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\049.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\059.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\069.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\079.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\089.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\099.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\109.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\119.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\129.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\139.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\149.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\159.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\169.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\179.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\189.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\199.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\209.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\219.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\229.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\239.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\249.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\259.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\269.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\279.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\289.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\299.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\006\\309.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/006",
+      "primary_id": "006",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\000.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\024.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\048.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\072.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\096.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\120.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\144.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\168.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\192.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\216.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\240.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\264.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\288.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\312.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\336.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\360.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\385.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\409.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\433.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\457.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\481.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\505.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\529.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\553.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\577.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\601.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\625.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\649.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\673.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\697.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\721.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\025\\746.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/025",
+      "primary_id": "025",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\000.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\010.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\020.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\030.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\040.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\050.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\060.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\070.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\081.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\091.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\101.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\111.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\121.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\131.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\141.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\151.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\162.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\172.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\182.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\192.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\202.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\212.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\222.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\232.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\243.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\253.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\263.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\273.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\283.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\293.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\027\\303.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/027",
+      "primary_id": "027",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\030\\000.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/030",
+      "primary_id": "030",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\030\\009.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/030",
+      "primary_id": "030",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\030\\019.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/030",
+      "primary_id": "030",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\030\\028.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/030",
+      "primary_id": "030",
+      "secondary_id": null,
+      "method": "real"
+    },
+    {
+      "path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Dataset\\real\\030\\038.png",
+      "label": 0,
+      "split": "test",
+      "group_id": "real/030",
+      "primary_id": "030",
+      "secondary_id": null,
+      "method": "real"
+    }
+  ]
+}

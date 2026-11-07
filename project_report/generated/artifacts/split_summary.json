@@ -1,0 +1,50 @@
+{
+  "split_mode": "identity_grouped",
+  "identity_split_counts": {
+    "train": 699,
+    "val": 149,
+    "test": 151
+  },
+  "real_frame_counts": {
+    "train": 22360,
+    "val": 4761,
+    "test": 4828
+  },
+  "fake_frame_counts": {
+    "train": 79851,
+    "val": 4479,
+    "test": 4158
+  },
+  "fake_method_counts": {
+    "train": {
+      "Deepfakes": 15919,
+      "Face2Face": 15985,
+      "FaceShifter": 15969,
+      "FaceSwap": 15990,
+      "NeuralTextures": 15988
+    },
+    "val": {
+      "Deepfakes": 895,
+      "Face2Face": 896,
+      "FaceShifter": 896,
+      "FaceSwap": 896,
+      "NeuralTextures": 896
+    },
+    "test": {
+      "Deepfakes": 831,
+      "Face2Face": 832,
+      "FaceShifter": 831,
+      "FaceSwap": 832,
+      "NeuralTextures": 832
+    }
+  },
+  "dropped_cross_split_fake_frames": 71113,
+  "dropped_cross_split_fake_groups": 2226,
+  "retained_fake_groups": 2770,
+  "train_group_count": 3199,
+  "train_sample_count": 102211,
+  "val_group_count": 289,
+  "val_sample_count": 9240,
+  "test_group_count": 281,
+  "test_sample_count": 8986
+}

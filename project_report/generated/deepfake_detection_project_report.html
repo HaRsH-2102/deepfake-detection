@@ -1,0 +1,333 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Deepfake Detection System Report</title>
+  <style>
+    :root {
+      --bg: #eef4f8;
+      --paper: #ffffff;
+      --ink: #12212b;
+      --muted: #52636f;
+      --accent: #0f766e;
+      --accent-soft: #dff5f1;
+      --border: #d9e6ec;
+      --shadow: 0 20px 60px rgba(18, 33, 43, 0.12);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Georgia", "Times New Roman", serif;
+      background: radial-gradient(circle at top, #f5fbfd 0%, var(--bg) 45%, #e7eef4 100%);
+      color: var(--ink);
+      line-height: 1.65;
+    }
+    .page {
+      width: min(1120px, calc(100% - 48px));
+      margin: 32px auto 48px;
+      background: var(--paper);
+      border: 1px solid var(--border);
+      border-radius: 28px;
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+    .hero {
+      padding: 56px 56px 32px;
+      background:
+        radial-gradient(circle at top right, rgba(15, 118, 110, 0.18), transparent 28%),
+        linear-gradient(135deg, #103d52 0%, #0e665b 100%);
+      color: #f8fcfd;
+    }
+    .hero h1 {
+      margin: 0;
+      font-size: 2.9rem;
+      line-height: 1.1;
+      letter-spacing: -0.03em;
+    }
+    .hero p {
+      margin: 14px 0 0;
+      max-width: 860px;
+      color: rgba(248, 252, 253, 0.88);
+    }
+    .hero-meta {
+      margin-top: 24px;
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 14px;
+    }
+    .hero-card {
+      padding: 16px 18px;
+      border-radius: 20px;
+      background: rgba(255, 255, 255, 0.12);
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      backdrop-filter: blur(10px);
+    }
+    .hero-card span {
+      display: block;
+      font-size: 0.78rem;
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      color: rgba(248, 252, 253, 0.7);
+    }
+    .hero-card strong {
+      display: block;
+      margin-top: 8px;
+      font-size: 1.3rem;
+    }
+    .content {
+      padding: 40px 56px 56px;
+    }
+    h2 {
+      margin: 34px 0 14px;
+      font-size: 1.75rem;
+      color: #0f433d;
+    }
+    h3 {
+      margin: 26px 0 10px;
+      font-size: 1.15rem;
+      color: #174e47;
+    }
+    p, li {
+      font-size: 1rem;
+      color: var(--ink);
+    }
+    .lede {
+      font-size: 1.05rem;
+      color: var(--muted);
+    }
+    .two-col {
+      display: grid;
+      grid-template-columns: 1.05fr 0.95fr;
+      gap: 22px;
+      align-items: start;
+    }
+    .panel {
+      padding: 22px;
+      border: 1px solid var(--border);
+      border-radius: 22px;
+      background: linear-gradient(180deg, #ffffff 0%, #f9fcfd 100%);
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 14px 0 20px;
+      font-size: 0.96rem;
+    }
+    th, td {
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      text-align: left;
+      color: #214b58;
+      width: 42%;
+      background: #f5fafb;
+    }
+    .figure-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 18px;
+      margin-top: 18px;
+    }
+    .figure-card {
+      margin: 0;
+      padding: 16px;
+      border: 1px solid var(--border);
+      border-radius: 22px;
+      background: #fbfeff;
+      break-inside: avoid;
+    }
+    .figure-card img {
+      width: 100%;
+      display: block;
+      border-radius: 16px;
+      border: 1px solid #e7eef1;
+      background: #eef4f6;
+    }
+    .figure-card figcaption {
+      margin-top: 12px;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+    .artifact-list code {
+      font-size: 0.9rem;
+    }
+    .quote {
+      margin: 18px 0;
+      padding: 18px 20px;
+      border-left: 4px solid var(--accent);
+      background: var(--accent-soft);
+      color: #164b45;
+      border-radius: 0 16px 16px 0;
+    }
+    @media print {
+      body { background: #fff; }
+      .page {
+        width: 100%;
+        margin: 0;
+        border: none;
+        border-radius: 0;
+        box-shadow: none;
+      }
+      .hero {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+      }
+      .figure-card {
+        page-break-inside: avoid;
+      }
+    }
+    @media (max-width: 900px) {
+      .page { width: calc(100% - 24px); }
+      .hero, .content { padding-left: 24px; padding-right: 24px; }
+      .hero-meta, .two-col, .figure-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <article class="page">
+    <section class="hero">
+      <h1>Deepfake Detection System Report</h1>
+      <p>
+        Publication-style summary of the fine-tuned XceptionNet training pipeline, deployment stack,
+        evaluation metrics, explainability outputs, and verification artifacts generated for the
+        <code>deepfake-detection-XceptionNet-main</code> project.
+      </p>
+      <div class="hero-meta">
+        <div class="hero-card"><span>Test Accuracy</span><strong>95.37%</strong></div><div class="hero-card"><span>Test F1</span><strong>95.02%</strong></div><div class="hero-card"><span>Test AUC</span><strong>0.9919</strong></div><div class="hero-card"><span>Best Epoch</span><strong>12</strong></div>
+      </div>
+    </section>
+
+    <section class="content">
+      <h2>Abstract</h2>
+      <p class="lede">
+        This system combines a fine-tuned XceptionNet backbone, MTCNN face localization,
+        training-consistent preprocessing, Grad-CAM, LIME, metadata inspection, and a FastAPI plus React
+        dashboard for image and video deepfake analysis. The final model was trained on the local
+        <code>Dataset</code> directory using an identity-grouped split to reduce leakage and integrated back
+        into the deployment runtime with the same preprocessing used during fine-tuning.
+      </p>
+
+      <div class="two-col">
+        <div class="panel">
+          <h3>Core Outcome</h3>
+          <p>
+            The fine-tuned model achieved <strong>95.37% test accuracy</strong>,
+            <strong>95.02% test F1-score</strong>, and <strong>0.9919 test AUC</strong>.
+            The representative fake-image verification sample was classified as
+            <strong>FAKE</strong> at
+            <strong>99.98%</strong> confidence, while the representative
+            fake-video verification run reached a <strong>88.52%</strong> fake-frame ratio.
+          </p>
+        </div>
+        <div class="panel">
+          <h3>Deployment Snapshot</h3>
+          <table>
+            <tr><th>Backbone</th><td>xception</td></tr><tr><th>Image size</th><td>299</td></tr><tr><th>Normalization</th><td>ImageNet statistics</td></tr><tr><th>Face detector</th><td>mtcnn</td></tr><tr><th>Image threshold</th><td>0.85</td></tr><tr><th>Video ratio threshold</th><td>0.40</td></tr>
+          </table>
+        </div>
+      </div>
+
+      <h2>Dataset and Split Strategy</h2>
+      <p>
+        Training used an identity-grouped split to reduce subject overlap across train, validation, and test
+        sets. This is especially important in deepfake detection because identity leakage can inflate
+        performance estimates without improving generalization.
+      </p>
+      <table>
+        <tr><th>Train identities</th><td>699</td></tr>
+        <tr><th>Validation identities</th><td>149</td></tr>
+        <tr><th>Test identities</th><td>151</td></tr>
+        <tr><th>Train samples</th><td>102,211</td></tr>
+        <tr><th>Validation samples</th><td>9,240</td></tr>
+        <tr><th>Test samples</th><td>8,986</td></tr>
+        <tr><th>Dropped cross-split fake frames</th><td>71,113</td></tr>
+        <tr><th>Dropped cross-split fake groups</th><td>2,226</td></tr>
+      </table>
+
+      <h2>Training Configuration and Results</h2>
+      <div class="two-col">
+        <div class="panel">
+          <h3>Configuration</h3>
+          <table>
+            <tr><th>Batch size</th><td>32</td></tr><tr><th>Epochs</th><td>12</td></tr><tr><th>Frozen epochs</th><td>2</td></tr><tr><th>Learning rate</th><td>0.0001</td></tr><tr><th>Weight decay</th><td>0.0001</td></tr><tr><th>Patience</th><td>4</td></tr><tr><th>Weighted sampler</th><td>True</td></tr><tr><th>AMP</th><td>True</td></tr><tr><th>Training time</th><td>521.54 minutes</td></tr>
+          </table>
+        </div>
+        <div class="panel">
+          <h3>Held-Out Performance</h3>
+          <table>
+            <tr><th>Validation accuracy</th><td>97.22%</td></tr><tr><th>Validation AUC</th><td>0.9942</td></tr><tr><th>Test accuracy</th><td>95.37%</td></tr><tr><th>Test precision</th><td>94.59%</td></tr><tr><th>Test recall</th><td>95.45%</td></tr><tr><th>Test F1-score</th><td>95.02%</td></tr><tr><th>Test AUC</th><td>0.9919</td></tr><tr><th>Test loss</th><td>0.1123</td></tr>
+          </table>
+        </div>
+      </div>
+
+      <div class="figure-grid">
+        <figure class="figure-card"><img src="assets/learning_curves.png" alt="Learning Curves" /><figcaption><strong>Learning Curves</strong><br>Training and validation evolution across the full fine-tuning run.</figcaption></figure><figure class="figure-card"><img src="assets/val_confusion_matrix.png" alt="Validation Confusion Matrix" /><figcaption><strong>Validation Confusion Matrix</strong><br>Held-out validation confusion matrix.</figcaption></figure><figure class="figure-card"><img src="assets/test_confusion_matrix.png" alt="Test Confusion Matrix" /><figcaption><strong>Test Confusion Matrix</strong><br>Held-out test confusion matrix.</figcaption></figure><figure class="figure-card"><img src="assets/val_roc_curve.png" alt="Validation ROC Curve" /><figcaption><strong>Validation ROC Curve</strong><br>Validation ROC curve.</figcaption></figure><figure class="figure-card"><img src="assets/test_roc_curve.png" alt="Test ROC Curve" /><figcaption><strong>Test ROC Curve</strong><br>Test ROC curve.</figcaption></figure><figure class="figure-card"><img src="assets/val_error_gallery.png" alt="Validation Error Gallery" /><figcaption><strong>Validation Error Gallery</strong><br>Representative difficult validation examples.</figcaption></figure><figure class="figure-card"><img src="assets/test_error_gallery.png" alt="Test Error Gallery" /><figcaption><strong>Test Error Gallery</strong><br>Representative difficult test examples.</figcaption></figure>
+      </div>
+
+      <h2>Inference Stack and Application Design</h2>
+      <div class="two-col">
+        <div class="panel">
+          <h3>Backend</h3>
+          <ul>
+            <li>FastAPI service with health, image, batch, video, WebSocket, and PDF-report endpoints.</li>
+            <li>Xception model loaded from the fine-tuned <code>best_model.pt</code> checkpoint.</li>
+            <li>Training-consistent preprocessing: resize to <code>299x299</code> with ImageNet normalization.</li>
+            <li>MTCNN-only face detection with a slightly expanded crop margin for fuller facial coverage.</li>
+          </ul>
+        </div>
+        <div class="panel">
+          <h3>Frontend</h3>
+          <ul>
+            <li>Image, video, batch, and comparison workflows.</li>
+            <li>Interactive threshold sliders for image/frame and video ratio decisions.</li>
+            <li>Video decision trace, timeline, trigger-frame chips, and suspicious-frame gallery.</li>
+            <li>Session history, explainability panels, and PDF export support.</li>
+          </ul>
+        </div>
+      </div>
+
+      <h2>Component Verification</h2>
+      <table>
+        <tr><th>Model class</th><td>Xception</td></tr><tr><th>Parameter count</th><td>20,809,001</td></tr><tr><th>Trainable parameters</th><td>20,809,001</td></tr><tr><th>Detector confidence</th><td>99.86%</td></tr><tr><th>Image verification result</th><td>FAKE @ 99.98%</td></tr><tr><th>Landmark count</th><td>5</td></tr><tr><th>Metadata flags</th><td>No EXIF metadata present</td></tr><tr><th>Video fake-frame ratio</th><td>88.52%</td></tr><tr><th>Video fake-frame count</th><td>54 / 61</td></tr>
+      </table>
+
+      <div class="quote">Marked FAKE because 54/61 analyzed frames (88.52%) crossed the per-frame fake threshold, meeting the video ratio threshold of 40.00%. Trigger frames: 0, 10, 20, 30, 70, 80, 90, 100, 110, 120, 130, 140, 150, 160, 170, 180, 200, 220, 230, 240, 250, 260, 270, 280, 290, 300, 310, 320, 330, 340, 350, 360, 370, 380, 390, 400, 410, 420, 430, 440, 450, 460, 470, 480, 490, 500, 510, 520, 530, 540, 550, 570, 580, 590</div>
+
+      <div class="figure-grid">
+        <figure class="figure-card"><img src="assets/face_original.png" alt="Original Face-Detection Input" /><figcaption><strong>Original Face-Detection Input</strong><br>Original image used to verify the detector.</figcaption></figure><figure class="figure-card"><img src="assets/face_annotated.png" alt="Annotated Face Detection" /><figcaption><strong>Annotated Face Detection</strong><br>Detected face bounding box overlay.</figcaption></figure><figure class="figure-card"><img src="assets/face_crop.png" alt="Expanded Face Crop" /><figcaption><strong>Expanded Face Crop</strong><br>Crop passed to the classifier after adding margin.</figcaption></figure><figure class="figure-card"><img src="assets/explainability_input_face.png" alt="Explainability Input Face" /><figcaption><strong>Explainability Input Face</strong><br>Input crop used to generate attribution maps.</figcaption></figure><figure class="figure-card"><img src="assets/gradcam.png" alt="Grad-CAM" /><figcaption><strong>Grad-CAM</strong><br>Saliency map over the manipulated face.</figcaption></figure><figure class="figure-card"><img src="assets/lime.png" alt="LIME" /><figcaption><strong>LIME</strong><br>Superpixel-level explanation of the classifier decision.</figcaption></figure><figure class="figure-card"><img src="assets/landmarks_image.png" alt="Landmark Overlay" /><figcaption><strong>Landmark Overlay</strong><br>Five-point facial landmark overlay.</figcaption></figure><figure class="figure-card"><img src="assets/top_frame_1.png" alt="Top Video Frame 1" /><figcaption><strong>Top Video Frame 1</strong><br>First high-confidence fake frame from video verification.</figcaption></figure><figure class="figure-card"><img src="assets/top_face_1.png" alt="Top Video Face 1" /><figcaption><strong>Top Video Face 1</strong><br>Face crop for the first high-confidence fake frame.</figcaption></figure><figure class="figure-card"><img src="assets/top_gradcam_1.png" alt="Top Video Grad-CAM 1" /><figcaption><strong>Top Video Grad-CAM 1</strong><br>Grad-CAM explanation for the first suspicious frame.</figcaption></figure><figure class="figure-card"><img src="assets/top_frame_2.png" alt="Top Video Frame 2" /><figcaption><strong>Top Video Frame 2</strong><br>Second high-confidence fake frame from video verification.</figcaption></figure><figure class="figure-card"><img src="assets/top_face_2.png" alt="Top Video Face 2" /><figcaption><strong>Top Video Face 2</strong><br>Face crop for the second high-confidence fake frame.</figcaption></figure><figure class="figure-card"><img src="assets/top_gradcam_2.png" alt="Top Video Grad-CAM 2" /><figcaption><strong>Top Video Grad-CAM 2</strong><br>Grad-CAM explanation for the second suspicious frame.</figcaption></figure><figure class="figure-card"><img src="assets/top_frame_3.png" alt="Top Video Frame 3" /><figcaption><strong>Top Video Frame 3</strong><br>Third high-confidence fake frame from video verification.</figcaption></figure><figure class="figure-card"><img src="assets/top_face_3.png" alt="Top Video Face 3" /><figcaption><strong>Top Video Face 3</strong><br>Face crop for the third high-confidence fake frame.</figcaption></figure><figure class="figure-card"><img src="assets/top_gradcam_3.png" alt="Top Video Grad-CAM 3" /><figcaption><strong>Top Video Grad-CAM 3</strong><br>Grad-CAM explanation for the third suspicious frame.</figcaption></figure>
+      </div>
+
+      <h2>Discussion and Future Work</h2>
+      <p>
+        The most important practical lesson from this project was that deployment fidelity matters almost as much
+        as training quality. Once the backend was updated to load the new fine-tuned checkpoint, use the same
+        preprocessing as the training pipeline, and rely on MTCNN-only cropping, the model behavior aligned much
+        more closely with the expected results. The final stack is now suitable for demos, project reports, and
+        further experimentation.
+      </p>
+      <p>
+        Future improvements should focus on threshold calibration from validation distributions, temporal modeling
+        for more robust video decisions, multi-face handling, and broader external benchmarking against unseen
+        manipulations.
+      </p>
+
+      <h2>Bundled Artifact Paths</h2>
+      <ul class="artifact-list">
+        <li><code>artifacts/final_report.json</code></li>
+        <li><code>artifacts/split_summary.json</code></li>
+        <li><code>artifacts/config.json</code></li>
+        <li><code>artifacts/model_loader.json</code></li>
+        <li><code>artifacts/face_detection.json</code></li>
+        <li><code>artifacts/image_prediction.json</code></li>
+        <li><code>artifacts/explainability.json</code></li>
+        <li><code>artifacts/forensics.json</code></li>
+        <li><code>artifacts/landmarks_result.json</code></li>
+        <li><code>artifacts/video_pipeline.json</code></li>
+      </ul>
+    </section>
+  </article>
+</body>
+</html>

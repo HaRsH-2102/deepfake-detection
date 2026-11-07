@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-04-23T09:00:02.161057",
+  "status": "ok",
+  "model_path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\own_train\\runs\\20260422_231937_xception\\checkpoints\\best_model.pt",
+  "device": "cuda",
+  "image_path": "C:\\Users\\Harshal\\OneDrive\\Pictures\\Screenshots\\ladies_fake.png",
+  "threshold": 0.5,
+  "prediction": "FAKE",
+  "confidence": 0.9997888207435608,
+  "face_detected": true,
+  "outputs": {
+    "analyzed_face_image": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\outputs\\component_checks\\image_prediction\\analyzed_face.png"
+  }
+}

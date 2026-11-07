@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-04-22T22:10:53.637911",
+  "status": "ok",
+  "model_path": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\Models\\FFPP_model_20_epochs_99acc.pt",
+  "device": "cuda",
+  "image_path": "C:\\Users\\Harshal\\OneDrive\\Pictures\\Screenshots\\ladies_fake.png",
+  "prediction": "REAL",
+  "confidence": 8.171498484443873e-05,
+  "outputs": {
+    "input_face_image": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\outputs\\component_checks\\report_generator\\input_face.png",
+    "gradcam_image": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\outputs\\component_checks\\report_generator\\gradcam.png",
+    "lime_image": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\outputs\\component_checks\\report_generator\\lime.png",
+    "landmarks_image": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\outputs\\component_checks\\report_generator\\landmarks.png",
+    "pdf_report": "E:\\CSMSS Projects\\Sem6_mini_project\\deepfake-detection-XceptionNet-main\\outputs\\component_checks\\report_generator\\component_report.pdf"
+  }
+}

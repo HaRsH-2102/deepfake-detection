@@ -1,0 +1,21 @@
+{
+  "dataset_root": "Dataset",
+  "output_root": "own_train/runs",
+  "image_size": 299,
+  "batch_size": 32,
+  "epochs": 12,
+  "frozen_epochs": 2,
+  "learning_rate": 0.0001,
+  "weight_decay": 0.0001,
+  "train_ratio": 0.7,
+  "val_ratio": 0.15,
+  "seed": 42,
+  "num_workers": 4,
+  "patience": 4,
+  "use_weighted_sampler": true,
+  "decision_threshold": 0.5,
+  "model_name": "xception",
+  "pretrained": true,
+  "amp": true,
+  "device": null
+}
