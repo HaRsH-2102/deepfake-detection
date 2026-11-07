@@ -55,6 +55,9 @@ FaceForensics++_C23/
 *.doc
 Article_Journal_DD*
 review_response*
+apply_*.py
+create_review_response.py
+github_sync.py
 
 # System / IDE
 .DS_Store
