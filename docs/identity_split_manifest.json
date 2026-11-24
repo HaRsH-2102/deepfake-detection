@@ -1,0 +1,142 @@
+{
+  "dataset_name": "FaceForensics++ (C23)",
+  "protocol": "Strict Identity-Exclusive Disjoint Partitioning",
+  "random_seed": 42,
+  "split_ratios": {
+    "train": 0.7,
+    "val": 0.15,
+    "test": 0.15
+  },
+  "operational_identity_definition": {
+    "real_videos": "Single subject identity primary_id (p)",
+    "manipulated_videos": "Composite pair of target primary_id (p) and source secondary_id (q)",
+    "cross_split_pruning_rule": "Manipulated sample retained in Split(p) if and only if Split(p) == Split(q); strictly pruned/discarded if Split(p) != Split(q)"
+  },
+  "image_level_pipeline": {
+    "total_identities": 999,
+    "identity_split_counts": {
+      "train": 699,
+      "val": 149,
+      "test": 151
+    },
+    "total_samples_retained": 120437,
+    "dropped_cross_split_fake_frames": 71113,
+    "dropped_cross_split_fake_groups": 2226,
+    "retained_fake_groups": 2770,
+    "sample_counts": {
+      "train": 102211,
+      "val": 9240,
+      "test": 8986
+    },
+    "validation_identities_sample": [
+      "000",
+      "003",
+      "007",
+      "011",
+      "019",
+      "021",
+      "048",
+      "059",
+      "060",
+      "065",
+      "069",
+      "070",
+      "072",
+      "087",
+      "093",
+      "096",
+      "108",
+      "112",
+      "117",
+      "123"
+    ],
+    "testing_identities_sample": [
+      "006",
+      "025",
+      "027",
+      "030",
+      "032",
+      "044",
+      "046",
+      "057",
+      "067",
+      "071",
+      "073",
+      "080",
+      "081",
+      "089",
+      "094",
+      "095",
+      "099",
+      "103",
+      "104",
+      "114"
+    ]
+  },
+  "video_level_pipeline": {
+    "total_identities": 1028,
+    "identity_split_counts": {
+      "train": 719,
+      "val": 154,
+      "test": 155
+    },
+    "total_videos_retained": 4102,
+    "dropped_cross_split_fake_videos": 2898,
+    "retained_fake_videos": 3102,
+    "video_counts": {
+      "train": 3408,
+      "val": 362,
+      "test": 332
+    },
+    "validation_identities_sample": [
+      "000",
+      "003",
+      "007",
+      "010",
+      "018",
+      "02",
+      "044",
+      "050",
+      "054",
+      "055",
+      "06",
+      "063",
+      "064",
+      "066",
+      "085",
+      "088",
+      "099",
+      "102",
+      "104",
+      "107"
+    ],
+    "testing_identities_sample": [
+      "006",
+      "025",
+      "028",
+      "03",
+      "040",
+      "042",
+      "047",
+      "052",
+      "061",
+      "065",
+      "067",
+      "073",
+      "074",
+      "081",
+      "086",
+      "087",
+      "090",
+      "094",
+      "095",
+      "116"
+    ]
+  },
+  "leakage_audit": {
+    "image_val_test_identity_overlap": 0,
+    "video_val_test_identity_overlap": 0,
+    "cross_split_identity_leakage_rate": "0.000%",
+    "audit_status": "PASSED - ZERO IDENTITY OVERLAP"
+  }
+}
