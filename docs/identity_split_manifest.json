@@ -139,5 +139,29 @@
     "cross_split_identity_leakage_rate": "0.000%",
     "audit_status": "PASSED - ZERO IDENTITY OVERLAP"
   },
-  "repository_url": "https://github.com/HaRsH-2102/deepfake-detection"
+  "repository_url": "https://github.com/HaRsH-2102/deepfake-detection",
+  "sample_hierarchy": {
+    "level_1_source_sequence": "Independent parent video sequence (.mp4 file)",
+    "level_2_raw_frame": "Full uncropped frame at native capture resolution",
+    "level_3_facial_crop": "Atomic sample for image model: 299x299x3 MTCNN face crop (+18% margin)",
+    "level_4_temporal_clip": "Atomic sample for video model: T=10 sequence of 299x299 face crops"
+  },
+  "independent_source_video_counts": {
+    "image_pipeline": {
+      "train": 3199,
+      "val": 289,
+      "test": 281,
+      "total": 3769
+    },
+    "video_pipeline": {
+      "train": 3408,
+      "val": 362,
+      "test": 332,
+      "total": 4102
+    }
+  },
+  "identity_arithmetic_explanation": {
+    "image_pipeline_999_ids": "1000 original YouTube videos minus 1 video failed MTCNN detection (extreme motion blur/acute profile) = 999 IDs -> floor(999*0.7)=699 Train, floor(999*0.15)=149 Val, 151 Test (699+149+151=999)",
+    "video_pipeline_1028_ids": "1000 original YouTube videos plus 28 actor dialogue identities from DeepFakeDetection = 1028 IDs -> floor(1028*0.7)=719 Train, floor(1028*0.15)=154 Val, 155 Test (719+154+155=1028)"
+  }
 }
